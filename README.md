@@ -8,4 +8,6 @@ then make region of interest from video which represents the lane width and area
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
