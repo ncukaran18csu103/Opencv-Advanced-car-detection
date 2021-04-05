@@ -3,7 +3,5 @@ Notebook Lane_detection_1module.py consists of smart lane detection through open
 then make region of interest from video which represents the lane width and area and after than we make the area colred form with changing Frames per second.
 
 Link to the application
-
-http://img.youtube.com/vi/{video-id}/0.jpg
-
+https://www.youtube.com/watch?v=epk0rAOB7ak
 
