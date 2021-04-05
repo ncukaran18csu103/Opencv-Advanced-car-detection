@@ -4,6 +4,6 @@ then make region of interest from video which represents the lane width and area
 
 Link to the application
 
+http://img.youtube.com/vi/{video-id}/0.jpg
 
-![](https://www.youtube.com/watch?v=epk0rAOB7ak)
 
